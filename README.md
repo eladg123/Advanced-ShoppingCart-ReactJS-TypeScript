@@ -1,2 +1,2 @@
-# Advanced-ShoppingCart-ReactJS-TypeScript
+# AdvancedShoppingCart-ReactJS-TypeScript
  
